@@ -1,5 +1,12 @@
 This project was bootstrapped with Create React App.
+
 Before creating this project you have to install several things:
+i) node js
+ii) create React App
+iii) react-redux
+iv) npm-uuid
+v) react-bootstrap
+vi) react-bootstrap-dom
 
 
 In the project directory, you can run:
